@@ -1,1 +1,1 @@
-# EmployeesDownloaderPlugin
+# EmployeesDownloader.Plugin
