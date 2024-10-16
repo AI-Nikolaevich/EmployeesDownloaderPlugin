@@ -1,0 +1,17 @@
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\EmployeesLoader.Plugin.dll
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\EmployeesViewer.Plugin.dll
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\EmployeesViewer.Plugin.pdb
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\EmployeesDownloaderPlugin.dll
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\EmployeesDownloaderPlugin.pdb
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\Newtonsoft.Json.dll
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\NLog.dll
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\PhoneApp.exe
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\PhoneApp.pdb
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\PhoneApp.exe.config
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\Newtonsoft.Json.xml
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\bin\Release\NLog.xml
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\obj\Release\EmployeesDownloaderPlugin.csproj.AssemblyReference.cache
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\obj\Release\EmployeesDownloaderPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\obj\Release\Employee.92124B85.Up2Date
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\obj\Release\EmployeesDownloaderPlugin.dll
+C:\Users\Handy Bandy\Desktop\PhonePluginsApplication-master\EmployeesDownloaderPlugin\obj\Release\EmployeesDownloaderPlugin.pdb
